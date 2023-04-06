@@ -1,0 +1,26 @@
+{
+  "name": "algorithms-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macgyver1985/algorithms-with-nodejs.git"
+  },
+  "keywords": [
+    "Algorithms"
+  ],
+  "author": "Felipe França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macgyver1985/algorithms-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/macgyver1985/algorithms-with-nodejs#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-cli": "^29.5.0"
+  }
+}
