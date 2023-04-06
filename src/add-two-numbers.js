@@ -21,8 +21,7 @@ function interactor(first, second, curretRest) {
 }
 
 function addTwoNumbers(first, second) {
-    const v = interactor(first, second, 0); 
-    return v;
+    return interactor(first, second, 0); 
 }
 
 module.exports = { addTwoNumbers }
